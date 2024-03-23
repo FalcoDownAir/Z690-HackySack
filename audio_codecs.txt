@@ -1,0 +1,21 @@
+# Supported Codecs w/ boot-args
+
+## ProperTree -> [path to bootdrive usb]\EFI\OC\config.plist -> (Root/NVRAM/7C436110.../boot-args)
+
+Intel - Alder Lake PCH-P HD Audio Controller - OS Supported: 19
+    (0x51C8)
+
+AMD - AMD R9 290X HDMI - OS: 15
+    (0xAAC8)\
+    (0xAAE8)\
+
+AMD - AMD vega-m HDMI - os: 15
+    (0xAB08)
+
+Realtek - Assorted codecs for onboard / realtek support HD audio
+    (0x100402), (0x100500)
+    layout 11, 12, 13, 21, 23, 66, 69, 77, 98,99
+
+### Bootargs
+
+alcid=1
