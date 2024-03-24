@@ -17,9 +17,9 @@
   - 32gb Corsair Vengence @ 3200Mhz C16
 
 ### GPU_0 :
-  - AMD Radeon RX-6700** | XFX SWFT 309
+  - AMD Radeon RX-6700 | XFX SWFT 309
 ### GPU_1 :
-- Intel UHD 770** | iGPU 
+- Intel UHD 770 | iGPU 
 
 ### PSU :
  - Corsair RM750e
@@ -36,3 +36,7 @@ especially, assistance as I will need it.
 
 Guten nacht,
 E
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+git clone https://github.com/FalcoDownAir/Z690-HackySack/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
